@@ -45,7 +45,7 @@ pip install fastapi uvicorn
 <!-- ----------------------------------- -->
 
 ## **Writing a simple API using `Fast API`**
-```
+```py
 import uvicorn
 from fastapi import FastAPI
 
