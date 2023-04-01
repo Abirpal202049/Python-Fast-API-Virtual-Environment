@@ -117,5 +117,5 @@ deactivate
 
 # Resources 
 - [Deployment of ML app using FAST API and Creating virtual enviroment using `conda`](https://www.youtube.com/playlist?list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7)
-- [Hitesh Choudhary](https://www.youtube.com/watch?v=TQfIUS52QHA&t=20s&pp=ygUIZmFzdCBhcGk%3D)
+- [Hitesh Choudhary - Fast API](https://www.youtube.com/watch?v=TQfIUS52QHA&t=20s&pp=ygUIZmFzdCBhcGk%3D)
 - [CodeWithHarry - Virtual environment using `venv`](https://www.youtube.com/watch?v=nt6LlFTWOkg&ab_channel=CodeWithHarry)
